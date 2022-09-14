@@ -1,4 +1,4 @@
-<code>🎓 Bachelor: Computer engineer (KPI) </code>
+<code>🎓 Bachelor: Computer engineer (at Igor Sikorsky Kyiv Polytechnic Institute) </code>
 <code>👷 Speciality: Full stack </code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js, react.js</code>
